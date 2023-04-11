@@ -1,0 +1,25 @@
+
+n
+java:S1192C"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ªŞÃı8Ğ÷Ïö0
+m
+java:S13014"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8Ñ÷Ïö0
+G
+java:S1948"%Make "dao" transient or serializable.(ç¥‰Õşÿÿÿÿ8ã÷Ïö0
+]
+java:S1854";Remove this useless assignment to local variable "session".(ûİÙ¹şÿÿÿÿ8å÷Ïö0
+N
+java:S1481",Remove this unused "session" local variable.(ûİÙ¹şÿÿÿÿ8æ÷Ïö0
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÚèØ+8æ÷Ïö0
+C	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ8ç÷Ïö0
+]
+java:S18540";Remove this useless assignment to local variable "session".(ûİÙ¹şÿÿÿÿ8è÷Ïö0
+N
+java:S14810",Remove this unused "session" local variable.(ûİÙ¹şÿÿÿÿ8é÷Ïö0
+C
+java:S11252"'Remove the unnecessary boolean literal.(ÚèØ+8é÷Ïö0
+C	java:S1314""Add a default case to this switch.(ë´åİşÿÿÿÿ8ê÷Ïö0
+L
+java:S1172>"/Remove this unused method parameter "response".(éƒÛ8ê÷Ïö0
+w
+java:S1128"ZRemove this unused import 'com.example.assignment_java4_thinhlhph19459.model.VideoEntity'.(ú¶£í8ğ÷Ïö0

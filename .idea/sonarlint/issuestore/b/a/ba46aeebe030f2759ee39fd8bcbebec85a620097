@@ -1,0 +1,26 @@
+
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8´üôÏö0
+m
+java:S13010"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8´üôÏö0
+G
+java:S1948"%Make "dao" transient or serializable.(”â±ªùÿÿÿÿ8ÄüôÏö0
+F
+java:S1948"$Make "em" transient or serializable.(¥ïµÿÿÿÿÿ8ÄüôÏö0
+]
+java:S1854";Remove this useless assignment to local variable "session".(ûİÙ¹şÿÿÿÿ8ÆüôÏö0
+N
+java:S1481",Remove this unused "session" local variable.(ûİÙ¹şÿÿÿÿ8ÇüôÏö0
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÚèØ+8ÈüôÏö0
+C	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ8ÉüôÏö0
+]
+java:S1854,";Remove this useless assignment to local variable "session".(ûİÙ¹şÿÿÿÿ8ËüôÏö0
+N
+java:S1481,",Remove this unused "session" local variable.(ûİÙ¹şÿÿÿÿ8ÌüôÏö0
+C
+java:S1125."'Remove the unnecessary boolean literal.(ÚèØ+8ÍüôÏö0
+C	java:S1310""Add a default case to this switch.(ë´åİşÿÿÿÿ8ÎüôÏö0
+ˆ
+java:S11308"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œ´·8ÏüôÏö0
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(ıÄëÖ8ĞüôÏö0

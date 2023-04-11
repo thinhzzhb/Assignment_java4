@@ -1,0 +1,7 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ˆãëïüÿÿÿÿ8ÿ‚ö¢ö0
+¦
+java:S1130"‰Remove the declaration of thrown exception 'javax.mail.internet.AddressException' which is a subclass of 'javax.mail.MessagingException'.(È¿‚68àóø¢ö0
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÇĞüÇùÿÿÿÿ8ãóø¢ö0

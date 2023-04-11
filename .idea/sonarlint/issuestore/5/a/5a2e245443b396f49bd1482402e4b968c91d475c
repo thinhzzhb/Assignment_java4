@@ -1,0 +1,20 @@
+
+>
+java:S1643c"Use a StringBuilder instead.(ºÑåÁûÿÿÿÿ8¦¾“Èö0
+}
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "entityID".(¤×í8§¾“Èö0
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ü¨µş8§¾“Èö0
+y
+java:S1488P"\Immediately return this expression instead of assigning it to the temporary variable "user".(Óô 8§¾“Èö0
+{
+java:S1488h"^Immediately return this expression instead of assigning it to the temporary variable "output".(¢¾µ§8§¾“Èö0
+W
+java:S1117A":Rename "entity" which hides the field declared at line 16.(‘í×©8Ñ¾“Èö0
+F
+java:S2140X")Use "java.util.Random.nextInt()" instead.(Óıúß8Õ¾“Èö0
+X	java:S125j"<This block of commented-out lines of code should be removed.(ÇºÃ8İ¾“Èö0
+
+java:S1128"]Remove this unused import 'com.example.assignment_java4_thinhlhph19459.model.FavoriteEntity'.(Š…‚¾üÿÿÿÿ8…¼°Èö0
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8…¼°Èö0

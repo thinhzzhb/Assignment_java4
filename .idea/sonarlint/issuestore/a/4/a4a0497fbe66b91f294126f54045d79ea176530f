@@ -1,0 +1,23 @@
+
+n
+java:S1192D"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ªŞÃı8¢‘øÏö0
+m
+java:S13014"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8£‘øÏö0
+G
+java:S1948"%Make "dao" transient or serializable.(ä‡¢­ıÿÿÿÿ8¾‘øÏö0
+]
+java:S1854";Remove this useless assignment to local variable "session".(ûİÙ¹şÿÿÿÿ8Â‘øÏö0
+N
+java:S1481",Remove this unused "session" local variable.(ûİÙ¹şÿÿÿÿ8Ã‘øÏö0
+C
+java:S1125"'Remove the unnecessary boolean literal.(ÚèØ+8Ä‘øÏö0
+C	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ8Å‘øÏö0
+]
+java:S18540";Remove this useless assignment to local variable "session".(ûİÙ¹şÿÿÿÿ8Ç‘øÏö0
+N
+java:S14810",Remove this unused "session" local variable.(ûİÙ¹şÿÿÿÿ8È‘øÏö0
+C
+java:S11252"'Remove the unnecessary boolean literal.(ÚèØ+8É‘øÏö0
+C	java:S1314""Add a default case to this switch.(ë´åİşÿÿÿÿ8Ê‘øÏö0
+L
+java:S1172?"/Remove this unused method parameter "response".(¢Ë™8Ë‘øÏö0

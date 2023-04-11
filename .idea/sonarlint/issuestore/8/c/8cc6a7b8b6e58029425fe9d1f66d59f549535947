@@ -1,0 +1,9 @@
+
+„
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "listReport".(­ÿá¡ýÿÿÿÿ8×®“Êö0
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ü¨µþ8Ò¨¬Ìö0
+
+java:S1128"]Remove this unused import 'com.example.assignment_java4_thinhlhph19459.model.FavoriteEntity'.(Š…‚¾üÿÿÿÿ8Ë‚¯Ìö0
+e
+java:S1128"CRemove this unused import 'javax.persistence.StoredProcedureQuery'.(Ð¡‡…úÿÿÿÿ8Ë‚¯Ìö0

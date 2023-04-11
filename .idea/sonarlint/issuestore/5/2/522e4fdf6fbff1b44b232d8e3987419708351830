@@ -1,0 +1,23 @@
+
+j
+java:S1192%"HDefine a constant instead of duplicating this literal "changer" 4 times.(¬æ‚ìıÿÿÿÿ8¥¼¾¤ö0
+j
+java:S1192K"HDefine a constant instead of duplicating this literal "message" 5 times.(Üôûÿÿÿÿ8¦¼¾¤ö0
+
+java:S1192P"mDefine a constant instead of duplicating this literal "/Assignment_java4_thinhlhph19459/video/index" 5 times.(…÷–¶şÿÿÿÿ8šüÏö0
+i
+java:S1192,"GDefine a constant instead of duplicating this literal "forgot" 3 times.(é›£¢úÿÿÿÿ8ñÜû¤ö0
+j
+java:S2259´"GA "NullPointerException" could be thrown; "favorites" is nullable here.(„›öûÿÿÿÿ8Ö¶¢Ğö0
+`
+java:S2583y"CChange this condition so that it does not always evaluate to "true"(¼éÄû8¢šüÏö0
+B
+java:S1948"%Make "dao" transient or serializable.(­’Øº8”½¾¤ö0
+E
+java:S1948"(Make "entity" transient or serializable.(×çÚú8Ù¾¾¤ö0
+J
+java:S1948"-Make "sendMailDAO" transient or serializable.(Š‡±í8Ü¾¾¤ö0
+E	java:S108A")Either remove or fill this block of code.(‘Á”å8ö¾¾¤ö0
+M
+java:S1172¬"/Remove this unused method parameter "response".(ü‚8‰›üÏö0
+[	java:S106´"9Replace this use of System.out or System.err by a logger.(„›öûÿÿÿÿ8Š›üÏö0
